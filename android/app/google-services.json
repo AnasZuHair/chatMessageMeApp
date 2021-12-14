@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "998114610869",
+    "project_id": "chatapp1-efe41",
+    "storage_bucket": "chatapp1-efe41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998114610869:android:089a70e1874816983bb8fc",
+        "android_client_info": {
+          "package_name": "AnasDeveloper.chat_app_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998114610869-27r5irfedhoksutihrgk0dj232kmf9gh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQSXb0pd3vUPA_2ZYjg_x30yI6oUQvIWw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998114610869-27r5irfedhoksutihrgk0dj232kmf9gh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
